@@ -1,0 +1,26 @@
+body {
+    color:cadetblue;
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* class Selector */
+.first{
+    color:black;
+}
+
+/* ID Selector */
+#eklist{
+    background-color: brown;
+}
+
+/* Atribute Selector */
+a[herf="Uoflairs.com"]{
+    color: aqua;
+    text-decoration: none;
+}
+
+/* Pseudo Selector */
+.first:hover{
+    color: blue;
+}

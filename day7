@@ -1,0 +1,3 @@
+#first time
+git config --globle user.name "devesh-art"
+git config --globle user.email "dev26swami@gmail.com"

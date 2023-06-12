@@ -1,0 +1,17 @@
+#git scm.com
+
+#first time
+git init
+
+git status
+git add.
+
+#first time
+git config --global user.name "devesh-art"
+git config --global user.email "dev26swami@gmail.com"
+
+git commit -m "your message"
+
+#first time
+git remote remove origin
+
