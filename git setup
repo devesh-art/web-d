@@ -12,6 +12,8 @@ git config --global user.email "dev26swami@gmail.com"
 
 git commit -m "your message"
 
-#first time
-git remote remove origin
+# daily Commands
+git add.
+git commit -m "daily comment"
+git push origin 
 
